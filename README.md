@@ -1,6 +1,6 @@
 # LostDev-Admob
 Documentation for the Admob Ads plugin by Lost Dev for Unreal Engine.
-<a href="com.epicgames.launcher://ue/marketplace/product/0f62fb48fedd4f02abcf0f3053f208b9"><h3>Marketplace Link<h3></a>
+<a href="com.epicgames.launcher://ue/marketplace/product/0f62fb48fedd4f02abcf0f3053f208b9"><h3 color="Blue">Marketplace Link<h3></a>
 <h2>Admob Ads</h2>
 <h3>Lets get you throught the process of setting up Admob ads in your Unreal Engine 5 Project with This plugin.</h3>
 
@@ -14,7 +14,7 @@ Documentation for the Admob Ads plugin by Lost Dev for Unreal Engine.
 <h3>With that the basic setup is done.</h2>
 
 <h2>Banner Ads</h2>
-
+<img scr="Gallery/Banner.jpg" height="800" widht="450">
 <h4> - To show banner ads in your project make a widget blueprint</h4>
 <h4> - Add 3 Buttons to the widget and add OnClick Event to them</h4>
 <h4> - To show the banner ad just attach the 'GMA Show Banner Ad' node to one of the buttons OnClick Event.</h4>
