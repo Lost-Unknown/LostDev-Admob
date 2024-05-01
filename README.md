@@ -14,7 +14,7 @@ Documentation for the Admob Ads plugin by Lost Dev for Unreal Engine.
 <h3>With that the basic setup is done.</h2>
 
 <h2>Banner Ads</h2>
-<img scr="Gallery/Banner.jpg" height="800" widht="450">
+<img scr="https://github.com/Lost-Unknown/LostDev-Admob/edit/main/Gallery/Banner.jpg" height="800" widht="450">
 <h4> - To show banner ads in your project make a widget blueprint</h4>
 <h4> - Add 3 Buttons to the widget and add OnClick Event to them</h4>
 <h4> - To show the banner ad just attach the 'GMA Show Banner Ad' node to one of the buttons OnClick Event.</h4>
